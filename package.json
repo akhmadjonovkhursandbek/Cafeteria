@@ -1,7 +1,7 @@
 {
   "name": "restaurant",
   "version": "1.0.0",
-  "description": "this is Cafeteria projeet backend",
+  "description": "this is Cafeteria projeet backend for Modification 1",
   "main": "src/server.ts",
   "scripts": {
     "train": "nodemon --exec ts-node src/train.ts",
